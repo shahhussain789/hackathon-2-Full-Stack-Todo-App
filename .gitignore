@@ -83,6 +83,6 @@ logs/
 *.sqlite3
 
 # Claude Code
-.claude/
-.claude.json
-.claude.json.backup
+#.claude/
+#.claude.json
+#.claude.json.backup
